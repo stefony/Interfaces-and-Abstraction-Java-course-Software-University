@@ -46,8 +46,8 @@ getModel(): String + getAge(): int + getId(): String.
 Ferrari Model an application that contains a class Ferrari and an interface. Your task is simple, you have a car - Ferrari, its model is "488-Spider" and it has a driver. Your Ferrari should have the functionality to use brakes and push the gas pedal. When the brakes are pushed down print "Brakes!", and when the gas pedal is pushed down - "brum-brumbrum-brrrrr". As you may have guessed this functionality is typical for all cars, so you should implement an interface to describe it. <> Car + brakes() : String + gas() : String
 
         Ferrari
-        -	driverName: String 
-        -	model: String
+        -driverName: String 
+        -model: String
         + Ferrari (String) 
         + brakes() : String 
         + gas() : String 
