@@ -1,18 +1,30 @@
 # Interfaces-and-Abstraction-Java-course-Software-University
 Courses from my education Java OOP in @SoftUni
-Courses from my education Java OOP in @SoftUni exercises: Interfaces and Abstraction Object-Oriented-Programming 01.Car Shop Build hierarchy from classes and interfaces
+Courses from my education Java OOP in @SoftUni exercises: Interfaces and Abstraction Object-Oriented-Programming 
+
+01.Car Shop Build hierarchy from classes and interfaces
 
 Interface Serializable Car Seat +TIRES:Integer +toString(): String +getModel: String
 
 getColor():String
 getHorsePower():Integer
 countryProduced():String
-02.Car Shop Extend Extend the previous problem Car CarImpl +CarImpl(model, color, horsePower, countryProduced) +toString(): String
 
-Rentable Sellable +getMinRentDay():Integer + getPrice():Double
+02.Car Shop Extend Extend the previous problem 
+Car 
+CarImpl +CarImpl(model, color, horsePower, countryProduced)
++toString(): String
 
+Rentable 						Sellable 
++getMinRentDay():Integer 				+ getPrice():Double
 getPricePerDay():Double
-Audi Seat -minRentDay: Integer - price: Double -pricePerDay: Double + toString():String +toString(): String
+
+Audi 							Seat 
+-minRentDay: Integer 					- price: Double
+							 + toString():String 
+-pricePerDay: Double
++toString(): String				     
+
 
 03.Say Hello Build hierarchy from classes and interfaces
 
