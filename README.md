@@ -1,4 +1,4 @@
-# Interfaces-and-Abstraction-Java-course-Software-University
+# OOP Interfaces-and-Abstraction-Java-course-Software-University
 Courses from my education Java OOP in @SoftUni
 Courses from my education Java OOP in @SoftUni exercises: Interfaces and Abstraction Object-Oriented-Programming 
 
